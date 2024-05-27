@@ -1,0 +1,6 @@
+x=int(input("Enter the X number :"))
+y=int(input("Enter the Y number :"))
+com_no=complex(x,y)
+print("complex number :",com_no)
+print("Real number :",com_no.real)
+print("Imaginary number :",com_no.imag)
